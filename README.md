@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anant37
 - 👀 I’m interested in ... CFD Design
-- 🌱 I’m currently learning ... Mechanical Engg
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... B Tech in Mechanical Engg
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... shorturl.at/jopI2
 
 <!---
