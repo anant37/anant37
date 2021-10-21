@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... CFD Design
 - 🌱 I’m currently learning ... B Tech in Mechanical Engg
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... shorturl.at/jopI2
+- 📫 How to reach me ... www.linkedin.com/in/a-d-saggam
 
 <!---
 anant37/anant37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
